@@ -1,0 +1,234 @@
+p {
+    margin: 0;
+}
+
+.Card {
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+  
+}
+
+.Card__img {
+
+    text-align: center;
+    
+}
+.Card_types {
+    height: 75px;
+} 
+.Card__type {
+
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    background: black;
+    color: #fff;
+    
+}
+
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.Card__info {
+    margin-left: 10px;
+}
+
+.Card__data {
+    padding-bottom: 20px;
+}
+
+.Card__data .title {
+    font-weight: 700;
+}
+
+ul{
+
+    margin: 0;
+    padding-left: 0;
+
+}
+
+#grass{
+    background: #63BC5A;
+    font-weight: bold;
+}
+
+#poison{
+    background: #AA6BC8;
+    font-weight: bold;
+}
+
+#fire{
+    background: #F49C53;
+    font-weight: bold;
+}
+
+#water{
+    background: #5090D6;
+    font-weight: bold;   
+}
+
+#flying{
+    background: #8FA9DE;
+    font-weight: bold;
+}
+
+#ground{
+    background: #D97845;
+    font-weight: bold;
+}
+
+#bug{
+    background: #91C12F;
+    font-weight: bold;
+}
+
+#normal{
+    background: #919AA3;
+    font-weight: bold;
+}
+
+#dark{
+    background: #5A5465;
+    font-weight: bold;
+}
+
+#ghost{
+
+    background: #5269AD;
+    font-weight: bold;
+    
+}
+
+#rock{
+
+    background: #C5B78C;
+    font-weight: bold;
+    
+}
+
+#psychic{
+
+    background: #EF6F78;
+    font-weight: bold;
+    
+}
+
+#ice{
+
+    background: #73CEC0;
+    font-weight: bold;
+    
+}
+
+#fairy{
+
+    background: #EE8FE6;
+    font-weight: bold;
+    
+}
+
+#electric{
+
+    background: #F4D23C;
+    font-weight: bold;
+    
+}
+
+#dragon{
+
+    background: #0B6DC3;
+    font-weight: bold;
+    
+}
+
+#fighting{
+
+    background: #CE476B;
+    font-weight: bold;
+    
+}
+
+#steel{
+
+    background: #5A8EA2;
+    font-weight: bold;
+    
+}
+
+.hp2{
+    color: #a0f0a0;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.attack2{
+    color: #f0a0a0;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.defense2{
+    color: #f0f0a0;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.special-attack2{
+    color: #f8c8a0;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.special-defense2{
+    color: #e8c868;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.speed2{
+    color: #a0f0f0;
+    font-weight: bolder;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+table{
+
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+td{
+    padding-bottom: 8px;
+}
+
+th{
+    padding-bottom: 8px;
+}
+
+.hp .mini100{
+   visibility: hidden;
+}
+
+.hp .maxi100{
+   visibility: hidden;
+}

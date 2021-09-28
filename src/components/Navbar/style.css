@@ -1,0 +1,16 @@
+.Navbar{
+
+    padding: 10px;
+    background: #ff3e30;
+    color: white;
+    margin-bottom: 30px;
+
+}
+
+.Navbar img{
+
+    height: auto;
+    width: 11%;
+    margin-left: 1%;
+
+}
